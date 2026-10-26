@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.meco_meso.jumpgame",
+      "sha256_cert_fingerprints": [
+        "03:54:E3:2D:BE:47:6F:6B:F7:E7:46:5C:C2:82:CF:A9:45:C0:E5:D7:65:9A:F1:98:05:EB:C3:C7:9B:D7:14:FE"
+      ]
+    }
+  }
+]
